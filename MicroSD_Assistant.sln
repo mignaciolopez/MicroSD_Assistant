@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroSD_Assistant", "MicroSD_Assistant\MicroSD_Assistant.csproj", "{C2401D7E-1F94-49BD-AA91-69B02A8B14E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2401D7E-1F94-49BD-AA91-69B02A8B14E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2401D7E-1F94-49BD-AA91-69B02A8B14E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2401D7E-1F94-49BD-AA91-69B02A8B14E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2401D7E-1F94-49BD-AA91-69B02A8B14E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15E41FC4-D280-49B9-9336-3010ACDACCA5}
+	EndGlobalSection
+EndGlobal
